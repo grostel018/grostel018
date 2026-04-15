@@ -32,8 +32,8 @@ Git • GitHub • VS Code • XAMPP • SQLite • MySQL
 - **Authentication System**
 
 ## 📫 Reach Me
-- GitHub: [](www.github.com/grostel018)
-- LinkedIn: [](www.linkedin.com/in/rostel-geni-8437933aa)
+- GitHub: [www.github.com/grostel018](www.github.com/grostel018)
+- LinkedIn: [www.linkedin.com/in/rostel-geni-8437933aa](www.linkedin.com/in/rostel-geni-8437933aa)
 
 ---
 > "Learning, building, improving."
