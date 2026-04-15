@@ -36,7 +36,7 @@ Git • GitHub • VS Code • XAMPP • SQLite • MySQL
 - LinkedIn: [www.linkedin.com/in/rostel-geni-8437933aa](www.linkedin.com/in/rostel-geni-8437933aa)
 
 ---
-> "Learning, building, improving."
+> "Improving."
 
 
 
