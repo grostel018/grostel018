@@ -10,7 +10,7 @@ Welcome to my GitHub profile.
 
 ## 🛠 Tech I Used
 **Languages**  
-C • C++ • C# • Python • PHP • JavaScript • HTML • CSS • SQL
+C • C++ • C# • Python • PHP • JavaScript/JAVA • HTML • CSS • SQL
 
 **Tools & Platforms**  
 Git • GitHub • VS Code • XAMPP • SQLite • MySQL
