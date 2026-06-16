@@ -29,7 +29,7 @@ Git • GitHub • VS Code • XAMPP • SQLite • MySQL
 - **C++ GPA Calculator**
 - **Progression Tracker App**
 - **Robots Finder**
-- **Authentication System**
+- **mailing client**
 
 ## 📫 Reach Me
 - GitHub: [www.github.com/grostel018](www.github.com/grostel018)
