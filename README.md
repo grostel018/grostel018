@@ -29,9 +29,11 @@ Git • GitHub • VS Code • XAMPP • SQLite • MySQL • Linux
 
 ## 📂 Featured Projects
 - **C++ GPA Calculator**
+- **OmniStock: Inventory Management System**
 - **Local AI assistant**
 - **Robots Finder**
-- **Student management system**
+- **Student Management System**
+- **Multi-Threaded Port Scanner**
 
 ## 📫 How to Reach Me
  [www.rosworld.vercel.app](https://rosworld.vercel.app/)
