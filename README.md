@@ -34,7 +34,7 @@ Git • GitHub • VS Code • XAMPP • SQLite • MySQL • Linux
 - **Student management system**
 
 ## 📫 How to Reach Me
-- LinkedIn: [www.linkedin.com/in/rostel-geni-8437933aa](www.linkedin.com/in/rostel-geni-8437933aa)
+ [www.rosworld.vercel.app](www.rosworld.vercel.app)
 
 ---
 > "Improving..."
